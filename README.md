@@ -1,0 +1,1 @@
+# .claude-skills-3d-lowpoly-animation-SKILL.md
